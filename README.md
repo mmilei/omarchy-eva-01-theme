@@ -3,7 +3,7 @@
 ![preview](preview.png)
 
 Dark theme for [Omarchy](https://omarchy.org/) inspired by the **color palette** of Evangelion Unit-01:
-deep violet armor, amber accents, orange flashes and a touch of green — softened for long sessions
+deep violet armor, green accents with amber and orange highlights — softened for long sessions
 (low-saturation mid tones, warm-lavender text, no pure black or pure white).
 
 The wallpaper is an original abstract composition (angular armor plates + hexagon "AT field" motif).
@@ -33,8 +33,8 @@ Chromium, Obsidian and the shell are generated from `colors.toml`.
 |---|---|---|---|---|
 | background | `#1F1530` | | red | `#D9534A` |
 | foreground | `#E0D8EA` | | orange | `#F28C28` |
-| accent (amber) | `#EDB83F` | | yellow | `#F0C24E` |
-| selection | `#4A3270` | | green | `#7DB868` |
+| accent (EVA green) | `#84C766` | | yellow | `#F0C24E` |
+| selection | `#4A3270` | | green | `#6FBF5A` |
 | muted | `#6E5F8A` | | cyan | `#3EB5A8` |
 | | | | blue | `#6B8FE0` |
 | | | | magenta (EVA purple) | `#A77BD6` |
