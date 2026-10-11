@@ -9,10 +9,10 @@ dark_background = "#170F25"
 darker_background = "#100A1B"
 lighter_background = "#2C1E42"
 
-foreground = "#E0D8EA"
+foreground = "#F0E6BC"
 dark_foreground = "#8F82A6"
-light_foreground = "#EDE7F3"
-bright_foreground = "#FBF7FF"
+light_foreground = "#F6EECB"
+bright_foreground = "#FFF8DA"
 
 red = "#D9534A"
 yellow = "#F0C24E"
