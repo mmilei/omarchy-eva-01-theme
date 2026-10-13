@@ -1,4 +1,4 @@
-# EVA-01 — Omarchy theme
+# Unit-EVA-001 — Omarchy theme
 
 ![preview](preview.png)
 
@@ -14,14 +14,14 @@ No artwork from the series is used, so the whole repo is free to share.
 Omarchy menu → *Install > Style > Theme*, then paste:
 
 ```
-https://github.com/mmilei/omarchy-eva-01-theme
+https://github.com/mmilei/omarchy-unit-eva-001-theme
 ```
 
 or from a terminal:
 
 ```
-omarchy theme install https://github.com/mmilei/omarchy-eva-01-theme
-omarchy theme set eva-01
+omarchy theme install https://github.com/mmilei/omarchy-unit-eva-001-theme
+omarchy theme set unit-eva-001
 ```
 
 Only `colors.toml`, `icons.theme`, `keyboard.rgb` and backgrounds ship; terminal, btop, Neovim, VS Code,
@@ -41,7 +41,7 @@ Chromium, Obsidian and the shell are generated from `colors.toml`.
 
 ## Add your own wallpapers
 
-Drop images in `~/.config/omarchy/backgrounds/eva-01/`.
+Drop images in `~/.config/omarchy/backgrounds/unit-eva-001/`.
 
 ## License
 
